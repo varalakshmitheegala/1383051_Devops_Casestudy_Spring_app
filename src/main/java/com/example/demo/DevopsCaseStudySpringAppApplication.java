@@ -15,5 +15,4 @@ public class DevopsCaseStudySpringAppApplication {
 		SpringApplication.run(DevopsCaseStudySpringAppApplication.class, args);
 		System.out.println("Application is running");
 	}
-
 }
